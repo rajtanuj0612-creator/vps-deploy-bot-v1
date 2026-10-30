@@ -1,6 +1,6 @@
 #!/bin/bash
 # ============================================================
-#  Evil Vps V1 — Installer
+#  Tgamerz Vps V1 — Installer
 #  Sets up LXD/LXC, Python deps, systemd service for bot.py
 # ============================================================
 
@@ -36,7 +36,7 @@ ascii_banner() {
     rainbow_line '| _ \ (_) || |   | |__ >  < (__  | _|| |) | |  | |  | | (_) | .` |'
     rainbow_line '|___/\___/ |_|   |____/_/\_\___| |___|___/___| |_| |___\___/|_|\_|'
     echo ""
-    rainbow_line '                    ~ Made by EvilSaad ~'
+    rainbow_line '                    ~ Made by Tgamerz ~'
     echo ""
 }
 
